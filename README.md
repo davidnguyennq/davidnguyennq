@@ -1,5 +1,5 @@
 Hi there! 
-<br>
+<hr>
 🚀 About Me
-<br>
+<hr>
 🎓 I am Nguyen Nhat Quan
