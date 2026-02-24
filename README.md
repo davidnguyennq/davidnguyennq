@@ -59,6 +59,3 @@ To become a Fullstack Engineer who designs scalable, high-performance systems an
 📫 Contact
 📧 Email: nguyennhatquan.dev@gmail.com
 
-💼 LinkedIn: (add link)
-
-🌐 Portfolio: (if any)
