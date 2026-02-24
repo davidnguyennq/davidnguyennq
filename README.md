@@ -102,4 +102,4 @@ To become a Backend Engineer who designs scalable, high-performance systems and 
 ## 📫 Contact  
 
 - 📧 Email: nguyennhatquan.dev@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/davidnguyxn453
