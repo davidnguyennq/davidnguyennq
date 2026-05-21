@@ -28,7 +28,7 @@ Building scalable APIs, database-driven systems, and enterprise applications.
 
 ---
 
-# 🚀 About Me
+# 🧑‍💻 About Me
 
 I'm a Backend Developer specializing in **ASP.NET Core**, **RESTful API Development**, and **Database Design**.
 
@@ -182,6 +182,9 @@ A project management platform supporting task assignment and progress tracking.
 ### Technologies
 
 ASP.NET MVC • C# • SQL Server • Entity Framework
+
+🔗 GitHub:
+https://github.com/DACN-ManageTaskSystem/DACN-ManageTaskSystem-ManageTask_PRJSystem
 
 ---
 
