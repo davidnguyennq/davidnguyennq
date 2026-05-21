@@ -1,105 +1,175 @@
-# 🚀 Nhat Quan Nguyen  
+<div align="center">
 
-💻 Fullstack Developer | .NET Core | React | SQL Server  
-🎓 Software Engineering Student  
-📍 Vietnam  
+# 🚀 Nhat Quan Nguyen
 
----
+### Backend-Focused Fullstack Developer
 
-## 👋 About Me  
+Building scalable systems, intelligent recommendation engines, and high-performance APIs.
 
-Hi! I'm **Nhat Quan Nguyen**, a Fullstack Developer with a strong focus on Backend Development, System Architecture, and Recommendation Systems.
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-I enjoy designing scalable systems, optimizing databases, and building intelligent product recommendation features.
+📍 Vietnam • 🎓 Software Engineering Student
 
-I have hands-on experience building:
-
-- 🛒 E-commerce systems with Content-Based Filtering  
-- 🤝 B2B Trading Platforms  
-- 💳 Online payment integration (PayPal)  
-- 🤖 Rule-based chatbot systems using JSON  
-- 🧠 Recommendation system architectures  
-
-My goal is to become a Backend Engineer specializing in scalable, AI-driven systems.
+</div>
 
 ---
 
-## 🛠 Tech Stack  
+## 👨‍💻 About Me
 
-### 🔹 Backend
+I'm a **Fullstack Developer** with a strong passion for:
 
-- ASP.NET Core  
-- Entity Framework / LINQ to SQL  
-- RESTful API Development  
-- SQL Server  
-- Authentication & Authorization  
-- Payment Integration (PayPal)  
+- ⚙️ Backend Development
+- 🏗 System Architecture
+- 🗄 Database Design & Optimization
+- 🤖 Recommendation Systems
+- 🚀 Performance & Scalability
 
-### 🔹 Frontend
+I enjoy transforming business requirements into scalable software solutions and designing systems that remain maintainable as they grow.
 
-- ReactJS  
-- TypeScript  
-- TailwindCSS  
-- Vite  
-- Axios  
+### What I have built
 
-### 🔹 Database & Architecture
+✅ E-commerce platforms with intelligent product recommendations
 
-- Database Design & Optimization  
-- Content-Based Filtering  
-- Collaborative Filtering  
-- Recommendation System Design  
-- System Architecture Planning  
+✅ B2B trading and transaction management systems
 
----
+✅ RESTful APIs using ASP.NET Core
 
-## 📌 Featured Projects  
+✅ PayPal payment integration
 
-### 🛍 E-commerce Recommendation System  
+✅ Rule-based chatbot systems using JSON workflows
 
-An electronic devices e-commerce platform integrated with a Content-Based recommendation system.
-
-**Key Contributions:**
-
-- Designed and implemented 30+ relational database tables  
-- Built product variant structure (color, version, attributes)  
-- Developed recommendation logic using Content-Based Filtering  
-- Integrated PayPal payment gateway  
-- Optimized SQL queries for performance  
+✅ Relational database architectures with 30+ tables
 
 ---
 
-### 🤝 B2B Trading Platform  
+## 🛠 Tech Stack
 
-A business-to-business connection system supporting enterprise transactions.
+### Backend
 
-**Key Features:**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
-- Company registration & verification  
-- Quotation requests & responses  
-- Electronic contract management  
-- Multiple transaction types (one-time, recurring, investment-based)  
-- Built RESTful APIs using ASP.NET Core (Code First approach)  
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+
+### Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+![Database Design](https://img.shields.io/badge/Database_Design-02569B?style=flat-square)
+
+### Architecture & Engineering
+
+- Clean Architecture
+- System Design
+- Authentication & Authorization
+- Payment Gateway Integration
+- Recommendation Systems
+- Content-Based Filtering
+- Collaborative Filtering
+- Performance Optimization
 
 ---
 
-## 📈 Currently Learning  
+# 📌 Featured Projects
 
-- Clean Architecture  
-- Microservices Architecture  
-- Advanced System Design  
-- AI-powered Recommendation Systems  
-- Performance Optimization & Scaling  
+## 🛒 Smart E-commerce Recommendation System
+
+A modern e-commerce platform for electronic devices featuring an intelligent recommendation engine.
+
+### Highlights
+
+- Designed and implemented **30+ relational database tables**
+- Built scalable product variant architecture
+- Developed **Content-Based Recommendation System**
+- Integrated **PayPal Payment Gateway**
+- Implemented Authentication & Authorization
+- Optimized SQL queries for performance
+
+### Technologies
+
+`ASP.NET Core` • `SQL Server` • `ReactJS` • `TypeScript` • `PayPal API`
 
 ---
 
-## 🎯 Career Objective  
+## 🤝 B2B Trading Platform
 
-To become a Backend Engineer who designs scalable, high-performance systems and intelligent recommendation engines.
+A business networking platform connecting enterprises and supporting digital transactions.
+
+### Highlights
+
+- Enterprise registration & verification
+- RFQ (Request For Quotation) workflow
+- Electronic contract management
+- Investment & recurring transaction support
+- RESTful API development using Code First architecture
+- Complex relational database design
+
+### Technologies
+
+`ASP.NET Core` • `Entity Framework Core` • `SQL Server`
 
 ---
 
-## 📫 Contact  
+## 📚 Currently Learning
 
-- 📧 Email: nguyennhatquan.dev@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/davidnguyxn453
+```text
+✔ Clean Architecture
+✔ Microservices Architecture
+✔ Advanced System Design
+✔ Distributed Systems
+✔ AI Recommendation Systems
+✔ Scalability & Performance Optimization
+```
+
+---
+
+## 🎯 Career Goal
+
+My long-term goal is to become a Backend Engineer specializing in:
+
+- High-performance backend systems
+- Scalable distributed architecture
+- Recommendation engines
+- AI-powered products
+- Large-scale software design
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **nguyennhatquan.dev@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/davidnguyxn453
+
+🌐 Portfolio:
+Coming Soon...
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable systems one API at a time
+
+</div>
